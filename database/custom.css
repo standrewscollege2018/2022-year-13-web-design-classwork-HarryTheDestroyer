@@ -1,0 +1,47 @@
+.custom-nav{
+  background: #00008B;
+}
+
+.custom-nav .navbar-brand{
+  color: white;
+}
+
+.custom-nav .nav-link{
+  text-decoration: none;
+  color: white;
+}
+
+.custom-nav .dropdown-menu{
+ background-color: #00008B;
+}
+
+.custom-nav a:hover{
+  color: white;
+}
+
+.custom-nav .dropdown-menu .dropdown-item{
+ color: white;
+ background-color: #00008B;
+}
+
+.custom-nav .dropdown-menu .dropdown-item:hover{
+ text-decoration: underline;
+}
+
+.card{
+  background-color: #00008B;
+}
+
+.delete-card {
+  width: 400px;
+  background-color: #00008B;
+}
+
+.delete-card .card-body a{
+  color: white;
+  text-decoration: none;
+}
+
+.delete-card .card-body a:hover{
+  text-decoration: underline;
+}
